@@ -1,0 +1,7 @@
+{
+  "name": "jata-monorepo",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}
