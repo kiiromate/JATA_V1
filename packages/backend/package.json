@@ -1,0 +1,9 @@
+{
+  "name": "jata-backend",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "nodemon netlify/functions/api.js"
+  },
+  "type": "commonjs"
+}
